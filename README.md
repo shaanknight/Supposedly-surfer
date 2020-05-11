@@ -1,7 +1,5 @@
-Name : Sayantan Jana
-Roll No. : 20171185
-
-Game : Subway Surfers inspired game using WebGL 
+# Supposedly-Surfer
+#### Game : Subway Surfers inspired game using JavaScript and WebGL 
 	
 	-> The game is inspired from Subway Surfer
 	   where the person playing will be trying to escape a chasing police officer running in a narrow
